@@ -11,7 +11,7 @@
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.image</string>
 	<key>ImageURL</key>
-	<string>file:///tmp/SpotifyNowPlaying-Artwork.jpg</string>
+	<string>file:///tmp/SpotifyNowPlaying-Artwork.png</string>
 	<key>Name</key>
 	<string>TrackArtwork</string>
 	<key>RefreshInterval</key>
